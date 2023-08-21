@@ -1,0 +1,33 @@
+.header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ 
+}
+.logo-site {
+  display: block;
+}
+/* .navigation {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
+.navbar-list {
+  display: flex;
+  gap: 37px;
+}
+.navbar-items a {
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.btn-signin {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  color: white;
+  border: none;
+}
